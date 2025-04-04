@@ -1,0 +1,20 @@
+2025-04-04 11:19:53.506364 - Received CBT.V508.FILE536.PDS from FILE536.XMI 
+2025-04-04 11:19:53.507370 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/$$$#DATE
+2025-04-04 11:19:53.507535 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/$$NOTE01
+2025-04-04 11:19:53.507690 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/$$NOTE02
+2025-04-04 11:19:53.507816 - Found $ANTIVIR.txt (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/$ANTIVIR
+2025-04-04 11:19:53.507936 - Found $JCLNSMS.jcl (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/$JCLNSMS
+2025-04-04 11:19:53.508058 - Found $JCLSMS.jcl (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/$JCLSMS
+2025-04-04 11:19:53.508336 - Found $MANUAL.txt (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/$MANUAL
+2025-04-04 11:19:53.508461 - Found $METRICS.txt (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/$METRICS
+2025-04-04 11:19:53.508685 - Found $XDIDOC.doc (application/msword) in CBT.V508.FILE536.PDS, moved to docs/$XDIDOC.doc
+2025-04-04 11:19:53.508810 - Found $XDIPRT.xmi (application/xmit) in CBT.V508.FILE536.PDS, moved to PDS/$XDIPRT.xmi
+2025-04-04 11:19:53.539425 - Received SBGOLOB.XDIPRT.PDS from $XDIPRT.xmi 
+2025-04-04 11:19:53.539882 - Found $CPYJOB1.txt (text/plain) in SBGOLOB.XDIPRT.PDS, moved to $XDIPRT/$CPYJOB1
+2025-04-04 11:19:53.540035 - Found $CPYJOB2.txt (text/plain) in SBGOLOB.XDIPRT.PDS, moved to $XDIPRT/$CPYJOB2
+2025-04-04 11:19:53.540414 - Found @FILE536.txt (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/@FILE536
+2025-04-04 11:19:53.540555 - Found CUSTOM.txt (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/CUSTOM
+2025-04-04 11:19:53.540719 - Found MACLIB.txt (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/MACLIB
+2025-04-04 11:19:53.540836 - Found PARMLIB.txt (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/PARMLIB
+2025-04-04 11:19:53.540961 - Found PROCLIB.txt (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/PROCLIB
+2025-04-04 11:19:53.541130 - Found SOURCE.txt (text/plain) in CBT.V508.FILE536.PDS, moved to PDS/SOURCE
